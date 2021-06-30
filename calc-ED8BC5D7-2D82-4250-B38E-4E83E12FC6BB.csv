@@ -1,0 +1,21 @@
+﻿Your Estimate
+Service Type,Components,Region,Component Price,Service Price
+Amazon EC2 Service (US East (N. Virginia)),,,,$24.21
+,Compute:,US East (N. Virginia),$14.21
+,EBS Volumes:,US East (N. Virginia),$10
+,EBS IOPS:,US East (N. Virginia),$0
+,EBS Throughput:,US East (N. Virginia),$0
+Amazon S3 Service (US East (N. Virginia)),,,,$117.82
+,S3 INT - Storage:,US East (N. Virginia),$117.76
+,S3 INT - Other Requests:,US East (N. Virginia),$0.01
+,S3 INT - Lifecycle Transitions:,US East (N. Virginia),$0.02
+,S3 INT - Data Returned:,US East (N. Virginia),$0.01
+,S3 INT - Data Scanned:,US East (N. Virginia),$0.01
+,S3 Standard – IA Lifecycle Transitions:,US East (N. Virginia),$0.01
+Amazon RDS Service (US East (N. Virginia)),,,,$1997.66
+,DB instances:,US East (N. Virginia),$847.66
+,Storage:,US East (N. Virginia),$1150
+AWS Support (Business),,,,$213.67
+,Support for all AWS services:,,$213.67
+,,Free Tier Discount:,,$-3
+,,Total Monthly Payment:,,$2350.36
